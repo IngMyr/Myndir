@@ -1,11 +1,18 @@
 Denne var tom, Ingrid. Skjerp deg. Bidra litt a!
 
 Egg
-Melk
+Melk, type surmelk.
 Mel
+<<<<<<< HEAD
 Rawwwwrrr!
+=======
+Tar det tilbake, tilsetter sukker.
+>>>>>>> 1943daf704f51579033a040f16040ca4b675da8c
 Smør
 Kannel (must!)
+Litt sukker da.
 
+Knus egg i bolle. Tilsett resten. Kast alt på gulvet. Ta en gulvfille. Smør det
+rundt. Vri opp. Hell i bollen. Putt i mikro. Ferdig!
 Sleng det sammen til det blir som tykk søle. Putt det i vaffelhjern (bare litt om gangen).
 Spis!
